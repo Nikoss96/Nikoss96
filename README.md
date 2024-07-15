@@ -1,4 +1,4 @@
-<h1 align="center">Nice to meet you! I'm Nikita</h1>
+<h1 align="center">Nice to meet you!</h1>
 <h3 align="center">I believe there is no limit to the application of data science. Think diversely!</h3>
 
 <h3 align="left">Connect with me:</h3>
